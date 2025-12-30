@@ -1,4 +1,4 @@
-# Hi 👋, I'm Omar Afifi
+<h1 align="center">Hi 👋, I'm Omar Afifi</h3>
 
 <h3 align="center">Detail-oriented, passionate and motivated software engineer with experience in building scalable and maintainable systems.</h3>
 
